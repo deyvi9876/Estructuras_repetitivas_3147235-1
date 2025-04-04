@@ -30,6 +30,22 @@ estructuras de codido de un numero determinado de veces.
 El bloque de codigo dentro de while se ejecutara sucesivamente**.
 mientras que la incondicional sea evaluada como VERDAD
 
+## Ciclo for:
+Se utiliza para (python) recorrer conjuntos de datos (Estructuras de datos o colecciones de datos)
+
+*  El ciclo recorrera cada dato en la estructura desde el primero hasta el ultimo 
+*  El elemento recorre una variable en el ciclo 
+
+### Sintaxis For:
+```
+for < variable> in <conjuntos de datos>
+    instruccion1
+    instruccion2
+    instruccion3
+
+```
+intruccion n
+
 ## Sintaxis en Python:
 ```
 while condicional:
